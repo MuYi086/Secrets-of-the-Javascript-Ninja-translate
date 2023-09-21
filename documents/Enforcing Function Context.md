@@ -1,6 +1,6 @@
 #### Enforcing Function Context
 
-1. 当我们给一个 `click` 绑定一个对象的方法是发生了什么?
+1. 当我们给一个 `click` 绑定一个对象的方法是发生了什么? 
 
     ```JS
     var Button = {

@@ -1,6 +1,6 @@
 #### Temporary Scope
 
-1. 自执行,临时，函数
+1. 自执行,临时，函数 
 
     ```JS
     (function () {

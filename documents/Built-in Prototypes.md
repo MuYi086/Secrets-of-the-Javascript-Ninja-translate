@@ -1,6 +1,6 @@
 #### Built-in Prototypes
 
-1. 我们可以修改内置对象原型
+1. 我们可以修改内置对象原型 
 
     ```JS
     if (!Array.prototype.forEach) {
@@ -20,7 +20,7 @@
     // c 在的位置2从里面出来2
     ```
 
-1. 当心:扩展原型是危险的
+1. 当心:扩展原型是危险的 
 
     ```JS
     Object.prototype.keys = function () {

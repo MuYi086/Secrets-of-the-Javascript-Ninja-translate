@@ -1,6 +1,6 @@
 #### Function Prototypes
 
-1. 给函数增加一个原型方法
+1. 给函数增加一个原型方法 
 
     ```JS
     function Ninja () {}

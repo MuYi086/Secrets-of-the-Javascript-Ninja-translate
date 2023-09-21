@@ -1,5 +1,5 @@
 #### Instantiation
-1. `new` 操作符做了什么?
+1. `new` 操作符做了什么? 
 
     ```JS
     function Ninja () {

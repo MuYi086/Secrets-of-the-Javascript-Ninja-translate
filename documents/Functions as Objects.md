@@ -1,5 +1,5 @@
 #### Functions as Objects
-1. 函数和对象有多相似?
+1. 函数和对象有多相似? 
 
     ```JS
     var obj = {}

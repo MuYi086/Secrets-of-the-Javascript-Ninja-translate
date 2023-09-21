@@ -1,6 +1,6 @@
 #### Function Length
 
-1. 函数的 `length` 属性是如何工作的?
+1. 函数的 `length` 属性是如何工作的? 
 
     ```JS
     function makeNinja (name) {}

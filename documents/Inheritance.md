@@ -1,6 +1,6 @@
 #### Inheritance
 
-1. 原型继承工作原理的基础知识
+1. 原型继承工作原理的基础知识 
 
     ```JS
     function Person () {}

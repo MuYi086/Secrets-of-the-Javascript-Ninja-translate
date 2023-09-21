@@ -1,5 +1,5 @@
 #### Our Goal
-1. 理解下面这个函数
+1. 理解下面这个函数 
 ```JS
 // The .bind method from Prototype.js
 Function.prototype.bind = function () {

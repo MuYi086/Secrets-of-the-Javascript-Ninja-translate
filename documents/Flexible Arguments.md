@@ -1,5 +1,5 @@
 #### Flexible Arguments
-1. 使用数量可变的参数对我们有利
+1. 使用数量可变的参数对我们有利 
 
     ```JS
     function merge (root) {
