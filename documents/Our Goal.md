@@ -31,6 +31,6 @@ const aa = function () {
   console.log(this.name)
   console.log(arguments)
 }
-aa.bind({name: 'ougege'}, 1, 2)(3,4)
-// ougege [1,2,3,4]
+aa.bind({name: 'MuYi086'}, 1, 2)(3,4)
+// MuYi086 [1,2,3,4]
 ```

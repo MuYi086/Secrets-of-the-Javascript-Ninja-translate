@@ -28,10 +28,10 @@
       return this.name
     }
     function Me () {
-      this.name = 'ougege'
+      this.name = 'MuYi086'
     }
     Me.prototype = new Person()
     var me = new Me()
     console.log(me.getName(), '设置了一个name')
-    // ougege 设置了一个name
+    // MuYi086 设置了一个name
     ```
